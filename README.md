@@ -1,4 +1,4 @@
-(I cloned it from https://git.jeelabs.org/jcw/embello)
+(I cloned it from https://git.jeelabs.org/jcw/embello -- lispnik)
 
 Embedded software from JeeLabs
 ==============================
