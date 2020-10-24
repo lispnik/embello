@@ -1,3 +1,5 @@
+(I cloned it from https://git.jeelabs.org/jcw/embello)
+
 Embedded software from JeeLabs
 ==============================
 
